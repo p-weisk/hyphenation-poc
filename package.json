@@ -1,0 +1,24 @@
+{
+  "name": "p-weisk/hyphenation-poc",
+  "version": "0.1.0",
+  "description": "Hyphenate content on websites using the hypher library",
+  "main": "app.js",
+  "dependencies": {
+    "hyphenation.de": "^0.2.1",
+    "hypher": "^0.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-weisk/hyphenation-poc.git"
+  },
+  "author": "Paul Weiske",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/p-weisk/hyphenation-poc/issues"
+  },
+  "homepage": "https://github.com/p-weisk/hyphenation-poc#readme"
+}
